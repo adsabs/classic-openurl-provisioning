@@ -1,4 +1,4 @@
-# institute_service
+# OpebURL Provisioning Utility
 
 A command-line utility for maintaining the `library` table in the
 institute PostgreSQL database (hosted on AWS), which holds OpenURL
